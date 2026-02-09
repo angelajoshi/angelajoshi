@@ -249,7 +249,7 @@ Skills: Apache Kafka • Event-Driven Architecture
 </td>
 <td align="center" width="50%">
 
-<img width="175" alt="Data Streaming Engineer - Apache Flink" src="https://github.com/user-attachments/assets/775d43f8-4191-4596-aea9-35d34bd9c8a3" />
+<img width="180" alt="Data Streaming Engineer - Apache Flink" src="https://github.com/user-attachments/assets/775d43f8-4191-4596-aea9-35d34bd9c8a3" />
 
 **Data Streaming Engineer - Apache Flink®**  
 *Confluent Certified*  
@@ -306,7 +306,7 @@ I'm always interested in collaborating on:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/angelaajoshi)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:angelajoshi2123@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-Follow_Me-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@angelajoshi2123)
+[![Medium](https://img.shields.io/badge/Medium-Follow_Me-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@angelaanindyajoshi)
 
 ---
 
