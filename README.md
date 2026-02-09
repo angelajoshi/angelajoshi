@@ -236,6 +236,8 @@ Currently working on event-driven architectures and real-time data streaming sol
 
 ---
 
+---
+
 ## Certifications
 
 <div align="center">
@@ -243,9 +245,8 @@ Currently working on event-driven architectures and real-time data streaming sol
 <table>
 <tr>
 <td align="center" width="50%">
-<img width="334" height="376" alt="image" src="https://github.com/user-attachments/assets/bc9c984a-828c-4c21-86d8-85632f97463d" />
 
-
+<img width="150" alt="Data Streaming Engineer - Foundations" src="https://github.com/user-attachments/assets/bc9c984a-828c-4c21-86d8-85632f97463d" />
 
 **Data Streaming Engineer - Foundations**  
 *Confluent Certified*  
@@ -256,8 +257,7 @@ Skills: Apache Kafka • Event-Driven Architecture
 </td>
 <td align="center" width="50%">
 
-
-<img width="428" height="376" alt="image" src="https://github.com/user-attachments/assets/775d43f8-4191-4596-aea9-35d34bd9c8a3" />
+<img width="150" alt="Data Streaming Engineer - Apache Flink" src="https://github.com/user-attachments/assets/775d43f8-4191-4596-aea9-35d34bd9c8a3" />
 
 **Data Streaming Engineer - Apache Flink®**  
 *Confluent Certified*  
@@ -273,11 +273,12 @@ Skills: Apache Flink • Stream Processing
 <br>
 
 **Python Essential 1 & 2**  
-*Cisco Networking Academy*  
-Sept 2025
-<img width="120/" height="120/" alt="image" src="https://github.com/user-attachments/assets/42aa1e47-815b-4927-bd86-2ea8e77338ab" />
-<img width="120/" height="120/" alt="image" src="https://github.com/user-attachments/assets/a3c4db3c-90fc-4bbd-b179-06b6313574ed" />
+*Cisco Networking Academy* • Sept 2025
 
+<br><br>
+
+<img width="100" alt="Python Essentials 1" src="https://github.com/user-attachments/assets/42aa1e47-815b-4927-bd86-2ea8e77338ab" style="margin: 0 10px;"/>
+<img width="100" alt="Python Essentials 2" src="https://github.com/user-attachments/assets/a3c4db3c-90fc-4bbd-b179-06b6313574ed" style="margin: 0 10px;"/>
 
 </td>
 </tr>
@@ -285,10 +286,7 @@ Sept 2025
 
 </div>
 
-
-
 ---
-
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
