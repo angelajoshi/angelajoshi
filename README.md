@@ -123,15 +123,7 @@ Worked with LLMs, knowledge graphs & cloud databases
 
 ---
 
-<div align="center">
 
-### Philosophy
-
-*"Great engineering is not just about writing code—it's about solving real problems, creating impact, and continuously learning. Every line of code is an opportunity to make something better."*
-
-</div>
-
----
 
 ## Tech Stack
 
@@ -257,7 +249,7 @@ Skills: Apache Kafka • Event-Driven Architecture
 </td>
 <td align="center" width="50%">
 
-<img width="150" alt="Data Streaming Engineer - Apache Flink" src="https://github.com/user-attachments/assets/775d43f8-4191-4596-aea9-35d34bd9c8a3" />
+<img width="175" alt="Data Streaming Engineer - Apache Flink" src="https://github.com/user-attachments/assets/775d43f8-4191-4596-aea9-35d34bd9c8a3" />
 
 **Data Streaming Engineer - Apache Flink®**  
 *Confluent Certified*  
