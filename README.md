@@ -17,46 +17,157 @@
 
 ##  About Me
 
-```bash
-$ whoami
-angela_joshi
+<table>
+<tr>
+<td width="55%">
 
-$ cat profile.yaml
----
-engineer:
-  specialization: "Backend Systems & Data Engineering"
-  location: "Mumbai, India 🇮🇳"
-  education: 
-    degree: "B.E. Computer Engineering"
-    cgpa: 9.59
-    status: "Graduating May 2026"
+###  Backend Engineer | Data Enthusiast | Technical Writer
 
-career:
-  current: "Building scalable delivery systems @ FyreGig"
-  previous: "Shipped GenAI solutions @ Tata Consultancy Services"
-  impact:
-    - "Migrated 100K+ users to MongoDB with zero downtime"
-    - "Cut financial reporting time by 50-80% with smart automation"
-    - "Built AWS serverless pipelines serving real-time insights"
+> *"Turning complex data challenges into elegant, scalable solutions"*
 
-expertise_stack:
-  infrastructure: ["AWS", "Kafka", "Airflow", "Snowflake"]
-  engineering: ["Node.js", "Python", "MongoDB", "PostgreSQL"]
-  ai_ml: ["LLMs", "GPT", "ML Pipelines", "Prophet"]
-  
-current_mission: |
-   Architecting event-driven systems
-   Mastering Apache Kafka & real-time streaming
-   Sharing knowledge via Medium - Towards Data Engineering
-   Transforming data into actionable intelligence
+I'm a **Computer Engineering student** with a passion for building robust backend systems and crafting efficient data pipelines. Currently architecting delivery platforms at **FyreGig** while documenting my journey through technical writing.
 
-$ echo "Always building, always learning, always shipping "
-Always building, always learning, always shipping 
+** Education**  
+B.E. Computer Engineering | **CGPA: 9.59**  
+Thakur College of Engineering and Technology
+
+** Location**  
+Mumbai, India 
+
+** Current Focus**  
+Building event-driven architectures with Apache Kafka and mastering real-time data streaming at scale.
+
+</td>
+<td width="45%">
+
+<div align="center">
+
+###  Impact at a Glance
+
+```
+┌─────────────────────────────┐
+│  100,000+  │ Users Migrated │
+├────────────┼────────────────┤
+│   50-80%   │ Time Saved     │
+├────────────┼────────────────┤
+│     2      │ Internships    │
+└────────────┴────────────────┘
 ```
 
-<details>
+###  Currently Working On
+**Rider Delivery Platform**  
+*Real-time tracking • POS Integration*  
+*MongoDB • Node.js • Express*
 
-##  Tech Stack
+###  Writing About
+**[Towards Data Engineering](https://medium.com/@angelajoshi2123)**  
+ETL Pipelines • Cloud Architecture  
+Data Engineering Best Practices
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+###  What Drives Me
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+###  **Building**
+Scalable backend systems  
+Event-driven architectures  
+Real-time data pipelines  
+Cloud-native solutions
+
+</td>
+<td width="33%" align="center">
+
+###  **Learning**
+Apache Kafka   
+Event Streaming   
+Snowflake 
+System Design 
+</td>
+<td width="33%" align="center">
+
+### **Contributing**
+Technical Writing   
+Open Source 
+Knowledge Sharing   
+Community Building 
+</td>
+</tr>
+</table>
+
+---
+
+###  Professional Journey
+
+<table>
+<tr>
+<td width="50%">
+
+####  FyreGig | Back End Developer Intern
+**Dec 2025 - Present**
+
+ Built rider-based delivery system with PetPooja POS     integration  
+ Implemented real-time location tracking  
+ Migrated **100,000+ user records** to MongoDB  
+ Designed schema validation & refactored REST APIs
+
+</td>
+<td width="50%">
+
+####  Tata Consultancy Services | SDE Intern
+**Dec 2024 - Feb 2025**
+
+ Contributed to GenAI initiative for BFSI Americas  
+ Developed AI-driven financial models  
+ Automated reporting - **50-80% faster**   
+ Worked with LLMs, knowledge graphs & cloud databases
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+###  Achievements & Recognition
+
+</div>
+
+|  Recognition |  Details |
+|:---|:---|
+| ** Multicon-W Delegate** | International conferences (2023, 2025) • 60+ hours Java & Google Cloud training |
+| ** Deputy Content Head** | TCET Capture Club • Led team of 73+ members |
+| ** Herspark Ideathon** | Proposed AI-based legal assistance solution |
+| ** Technical Writer** | Medium author • "Towards Data Engineering" series |
+| ** Data Streaming Engineer** | Confluent Certified (2026-2028) • Apache Kafka |
+
+---
+
+<div align="center">
+
+###  Philosophy
+
+*"Great engineering is not just about writing code—it's about solving real problems, creating impact, and continuously learning. Every line of code is an opportunity to make something better."*
+
+</div>
+
+---
+
+## Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -173,7 +284,7 @@ Currently working on event-driven architectures and real-time data streaming sol
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelajoshi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
 
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelajoshi&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000&stroke=000000)
 
 </div>
 
@@ -196,7 +307,7 @@ Currently working on event-driven architectures and real-time data streaming sol
 -  Real-time Data Processing at Scale
 <!-- BLOG-POST-LIST:END -->
 
- [Read more on Medium](https://medium.com/@angelajoshi2123)
+[Read more on Medium](https://medium.com/@angelajoshi2123)
 
 ---
 
@@ -232,4 +343,3 @@ From [angelajoshi](https://github.com/angelajoshi) | Last updated: February 2026
 ![Profile Views](https://komarev.com/ghpvc/?username=angelajoshi&color=black&style=flat-square)
 
 </div>
-
