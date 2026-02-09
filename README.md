@@ -21,7 +21,7 @@
 
 > *"Turning complex data challenges into elegant, scalable solutions"*
 
-I'm a **Computer Engineering student** (CGPA: 9.59) with a passion for building robust backend systems and crafting efficient data pipelines. Currently architecting delivery platforms at **FyreGig** while documenting my journey through technical writing on **[Medium](https://medium.com/@angelajoshi2123)**.
+I'm a **Computer Engineering student** with a passion for building robust backend systems and crafting efficient data pipelines. Currently architecting delivery platforms at **FyreGig** while documenting my journey through technical writing on **[Medium](https://medium.com/@angelaanindyajoshi)**.
 
 **Current Focus:** Building event-driven architectures with Apache Kafka and mastering real-time data streaming at scale.
 
@@ -31,7 +31,6 @@ I'm a **Computer Engineering student** (CGPA: 9.59) with a passion for building 
 
 ![Users Migrated](https://img.shields.io/badge/Users_Migrated-100,000+-blue?style=for-the-badge)
 ![Time Saved](https://img.shields.io/badge/Efficiency_Boost-50--80%25-green?style=for-the-badge)
-![CGPA](https://img.shields.io/badge/CGPA-9.59-orange?style=for-the-badge)
 ![Internships](https://img.shields.io/badge/Internships-2-purple?style=for-the-badge)
 
 **Currently Working On:** Rider Delivery Platform | Real-time tracking • POS Integration • MongoDB • Node.js
@@ -288,7 +287,7 @@ Skills: Apache Flink • Stream Processing
 - Real-time Data Processing at Scale
 <!-- BLOG-POST-LIST:END -->
 
-[Read more on Medium](https://medium.com/@angelajoshi2123)
+[Read more on Medium](https://medium.com/@angelaanindyajoshi)
 
 ---
 
