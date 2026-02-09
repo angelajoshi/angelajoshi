@@ -17,25 +17,44 @@
 
 ##  About Me
 
-```javascript
-const angela = {
-    location: "Mumbai, India 🇮🇳",
-    education: "B.E. Computer Engineering | CGPA: 9.59",
-    currentRole: "Back End Developer Intern @ FyreGig",
-    previousRole: "SDE Intern @ Tata Consultancy Services",
-    interests: ["Data Engineering", "Backend Systems", "GenAI", "Cloud Architecture"],
-    currentlyLearning: ["Apache Kafka", "Event-Driven Architecture", "Snowflake"],
-    funFact: "Reduced financial reporting time by 50-80% using automation "
-};
+```bash
+$ whoami
+angela_joshi
+
+$ cat profile.yaml
+---
+engineer:
+  specialization: "Backend Systems & Data Engineering"
+  location: "Mumbai, India 🇮🇳"
+  education: 
+    degree: "B.E. Computer Engineering"
+    cgpa: 9.59
+    status: "Graduating May 2026"
+
+career:
+  current: "Building scalable delivery systems @ FyreGig"
+  previous: "Shipped GenAI solutions @ Tata Consultancy Services"
+  impact:
+    - "Migrated 100K+ users to MongoDB with zero downtime"
+    - "Cut financial reporting time by 50-80% with smart automation"
+    - "Built AWS serverless pipelines serving real-time insights"
+
+expertise_stack:
+  infrastructure: ["AWS", "Kafka", "Airflow", "Snowflake"]
+  engineering: ["Node.js", "Python", "MongoDB", "PostgreSQL"]
+  ai_ml: ["LLMs", "GPT", "ML Pipelines", "Prophet"]
+  
+current_mission: |
+   Architecting event-driven systems
+   Mastering Apache Kafka & real-time streaming
+   Sharing knowledge via Medium - Towards Data Engineering
+   Transforming data into actionable intelligence
+
+$ echo "Always building, always learning, always shipping "
+Always building, always learning, always shipping 
 ```
 
--  Currently working on **rider-based delivery systems** with POS integration
--  Learning **Apache Kafka** and **Event-Driven Architecture**
--  Technical writer on **Medium** - [Towards Data Engineering](https://medium.com/@angelajoshi2123)
--  Migrated **1,00,000+ user records** from legacy systems to MongoDB
--  Built **serverless ETL pipelines** on AWS with real-time BI reporting
-
----
+<details>
 
 ##  Tech Stack
 
@@ -154,7 +173,7 @@ Currently working on event-driven architectures and real-time data streaming sol
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelajoshi&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=angelajoshi&theme=default&hide_border=true&background=ffffff&ring=000000&fire=000000&currStreakLabel=000000&sideNums=000000&currStreakNum=000000&sideLabels=000000&dates=000000&stroke=000000)
+
 
 </div>
 
