@@ -17,60 +17,26 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="55%">
-
 ### Backend Engineer | Data Enthusiast | Technical Writer
 
 > *"Turning complex data challenges into elegant, scalable solutions"*
 
-I'm a **Computer Engineering student** with a passion for building robust backend systems and crafting efficient data pipelines. Currently architecting delivery platforms at **FyreGig** while documenting my journey through technical writing.
+I'm a **Computer Engineering student** (CGPA: 9.59) with a passion for building robust backend systems and crafting efficient data pipelines. Currently architecting delivery platforms at **FyreGig** while documenting my journey through technical writing on **[Medium](https://medium.com/@angelajoshi2123)**.
 
-**Education**  
-B.E. Computer Engineering | **CGPA: 9.59**  
-Thakur College of Engineering and Technology
-
-**Location**  
-Mumbai, India
-
-**Current Focus**  
-Building event-driven architectures with Apache Kafka and mastering real-time data streaming at scale.
-
-</td>
-<td width="45%">
+**Current Focus:** Building event-driven architectures with Apache Kafka and mastering real-time data streaming at scale.
 
 <div align="center">
 
-### Impact at a Glance
+### Impact Metrics
 
-```
-┌─────────────────────────────┐
-│  100,000+  │ Users Migrated │
-├────────────┼────────────────┤
-│   50-80%   │ Time Saved     │
-├────────────┼────────────────┤
-│    9.59    │ CGPA           │
-├────────────┼────────────────┤
-│     2      │ Internships    │
-└────────────┴────────────────┘
-```
+![Users Migrated](https://img.shields.io/badge/Users_Migrated-100,000+-blue?style=for-the-badge)
+![Time Saved](https://img.shields.io/badge/Efficiency_Boost-50--80%25-green?style=for-the-badge)
+![CGPA](https://img.shields.io/badge/CGPA-9.59-orange?style=for-the-badge)
+![Internships](https://img.shields.io/badge/Internships-2-purple?style=for-the-badge)
 
-### Currently Working On
-**Rider Delivery Platform**  
-*Real-time tracking • POS Integration*  
-*MongoDB • Node.js • Express*
-
-### Writing About
-**[Towards Data Engineering](https://medium.com/@angelajoshi2123)**  
-ETL Pipelines • Cloud Architecture  
-Data Engineering Best Practices
+**Currently Working On:** Rider Delivery Platform | Real-time tracking • POS Integration • MongoDB • Node.js
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -78,46 +44,11 @@ Data Engineering Best Practices
 
 ### What Drives Me
 
-<table>
-<tr>
-<td width="33%" align="center">
+**Building:** Scalable backend systems • Event-driven architectures • Real-time data pipelines • Cloud-native solutions
 
-### Building
+**Learning:** Apache Kafka • Event Streaming • Snowflake • System Design
 
-<p align="center">
-Scalable backend systems<br>
-Event-driven architectures<br>
-Real-time data pipelines<br>
-Cloud-native solutions
-</p>
-
-</td>
-<td width="33%" align="center">
-
-### Learning
-
-<p align="center">
-Apache Kafka<br>
-Event Streaming<br>
-Snowflake<br>
-System Design
-</p>
-
-</td>
-<td width="33%" align="center">
-
-### Contributing
-
-<p align="center">
-Technical Writing<br>
-Open Source<br>
-Knowledge Sharing<br>
-Community Building
-</p>
-
-</td>
-</tr>
-</table>
+**Contributing:** Technical Writing • Open Source • Knowledge Sharing • Community Building
 
 </div>
 
@@ -174,7 +105,8 @@ Worked with LLMs, knowledge graphs & cloud databases
 
 ### Achievements & Recognition
 
-</div>
+<table>
+<tr><td>
 
 | Recognition | Details |
 |:---|:---|
@@ -183,6 +115,11 @@ Worked with LLMs, knowledge graphs & cloud databases
 | **Herspark Ideathon** | Proposed AI-based legal assistance solution |
 | **Technical Writer** | Medium author • "Towards Data Engineering" series |
 | **Data Streaming Engineer** | Confluent Certified (2026-2028) • Apache Kafka |
+
+</td></tr>
+</table>
+
+</div>
 
 ---
 
@@ -232,24 +169,6 @@ Worked with LLMs, knowledge graphs & cloud databases
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Back End Developer Intern | FyreGig
-*Dec 2025 - Present | Remote*
-- Built backend services for rider-based delivery system with **PetPooja POS integration**
-- Implemented **real-time rider location tracking** and secure order verification
-- Migrated **100,000+ user records** from legacy system to MongoDB
-- Designed MongoDB schema validation and refactored REST APIs
-
-### 🔹 Software Development Engineer Intern | Tata Consultancy Services
-*Dec 2024 - Feb 2025 | Mumbai*
-- Contributed to **Generative AI initiative** for Banking & Financial Services (BFSI Americas)
-- Developed AI-driven financial models for business banking workflows
-- Worked with **knowledge graphs, cloud databases, and LLMs**
-- Automated financial reporting pipelines, **reducing generation time by 50-80%**
 
 ---
 
@@ -395,15 +314,6 @@ Sept 2025
 <!-- BLOG-POST-LIST:END -->
 
 [Read more on Medium](https://medium.com/@angelajoshi2123)
-
----
-
-## Achievements & Recognition
-
-- **Multicon-W Delegate** (2023, 2025) - Completed EWPP workshops, 60 hours of Java and Google Cloud training
-- **Deputy Content Creation Head** - TCET Capture Club (2024-25) - Managed 73+ members
-- **Herspark Ideathon 2024** - Proposed AI-based legal assistance solution
-- **Technical Content Writer** - Medium (2026) - Authored articles on data engineering
 
 ---
 
