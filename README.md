@@ -261,8 +261,9 @@ Currently working on event-driven architectures and real-time data streaming sol
 <table>
 <tr>
 <td align="center" width="50%">
+<img width="334" height="376" alt="image" src="https://github.com/user-attachments/assets/bc9c984a-828c-4c21-86d8-85632f97463d" />
 
-<img src="https://github.com/angelajoshi/angelajoshi/blob/main/assets/confluent-foundations.png" alt="Data Streaming Engineer - Foundations" width="200"/>
+
 
 **Data Streaming Engineer - Foundations**  
 *Confluent Certified*  
@@ -273,7 +274,8 @@ Skills: Apache Kafka • Event-Driven Architecture
 </td>
 <td align="center" width="50%">
 
-<img src="https://github.com/angelajoshi/angelajoshi/blob/main/assets/confluent-flink.png" alt="Data Streaming Engineer - Apache Flink" width="200"/>
+
+<img width="428" height="376" alt="image" src="https://github.com/user-attachments/assets/775d43f8-4191-4596-aea9-35d34bd9c8a3" />
 
 **Data Streaming Engineer - Apache Flink®**  
 *Confluent Certified*  
@@ -298,9 +300,7 @@ Sept 2025
 
 </div>
 
-> **Note:** To display the certification badges, create an `assets` folder in your GitHub profile repository and upload:
-> - `confluent-foundations.png` (Foundations badge)
-> - `confluent-flink.png` (Apache Flink badge)
+
 
 ---
 
