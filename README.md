@@ -275,8 +275,8 @@ Skills: Apache Flink • Stream Processing
 **Python Essential 1 & 2**  
 *Cisco Networking Academy*  
 Sept 2025
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/42aa1e47-815b-4927-bd86-2ea8e77338ab" />
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a3c4db3c-90fc-4bbd-b179-06b6313574ed" />
+<img width="120/" height="120/" alt="image" src="https://github.com/user-attachments/assets/42aa1e47-815b-4927-bd86-2ea8e77338ab" />
+<img width="120/" height="120/" alt="image" src="https://github.com/user-attachments/assets/a3c4db3c-90fc-4bbd-b179-06b6313574ed" />
 
 
 </td>
