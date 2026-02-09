@@ -228,24 +228,6 @@ Currently working on event-driven architectures and real-time data streaming sol
 
 <div align="center">
 
-<a href="https://github.com/angelajoshi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelajoshi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff"/>
-</a>
-
-<a href="https://github.com/angelajoshi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelajoshi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff"/>
-</a>
-
-</div>
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=angelajoshi&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
 ### Contribution Graph
 
 [![Angela's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angelajoshi&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff)](https://github.com/angelajoshi)
@@ -293,6 +275,9 @@ Skills: Apache Flink • Stream Processing
 **Python Essential 1 & 2**  
 *Cisco Networking Academy*  
 Sept 2025
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/42aa1e47-815b-4927-bd86-2ea8e77338ab" />
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a3c4db3c-90fc-4bbd-b179-06b6313574ed" />
+
 
 </td>
 </tr>
